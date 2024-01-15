@@ -1,6 +1,6 @@
 {
-  "prompt": "book shelf, colorful, magic, light, glass, cathedral, glass",
-  "seed": 2788977538,
+  "prompt": "book shelf, colorful, magic, light, glass, cathedral, glass, white marble",
+  "seed": 2804002410,
   "used_random_seed": true,
   "negative_prompt": "",
   "num_outputs": 1,
@@ -21,7 +21,7 @@
   "output_quality": 75,
   "output_lossless": false,
   "metadata_output_format": "none",
-  "original_prompt": "book shelf, colorful, magic, light, glass, cathedral, glass",
+  "original_prompt": "book shelf, colorful, magic, light, glass, cathedral, glass, white marble",
   "active_tags": [],
   "inactive_tags": [],
   "enable_vae_tiling": true
