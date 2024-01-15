@@ -1,6 +1,6 @@
 {
   "prompt": "book shelf, colorful, magic, light, glass, cathedral, glass, white marble",
-  "seed": 3376550966,
+  "seed": 1317870636,
   "used_random_seed": true,
   "negative_prompt": "",
   "num_outputs": 1,
@@ -10,7 +10,7 @@
   "height": 512,
   "vram_usage_level": "balanced",
   "sampler_name": "euler_a",
-  "use_stable_diffusion_model": "cyberrealistic_v40",
+  "use_stable_diffusion_model": "Inkpunk-Diffusion-v2",
   "clip_skip": false,
   "use_vae_model": "",
   "stream_progress_updates": true,
