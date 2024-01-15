@@ -1,6 +1,6 @@
 {
-  "prompt": "book shelf, colorful, magic, light, glass, cathedral, glass",
-  "seed": 664882467,
+  "prompt": "book shelf, colorful, magic, light, glass, cathedral, glass, white marble",
+  "seed": 2445834720,
   "used_random_seed": true,
   "negative_prompt": "",
   "num_outputs": 1,
@@ -10,7 +10,7 @@
   "height": 512,
   "vram_usage_level": "balanced",
   "sampler_name": "euler_a",
-  "use_stable_diffusion_model": "cuteyukimixAdorable_specialchapter",
+  "use_stable_diffusion_model": "cyberrealistic_v40",
   "clip_skip": false,
   "use_vae_model": "",
   "stream_progress_updates": true,
@@ -21,7 +21,7 @@
   "output_quality": 75,
   "output_lossless": false,
   "metadata_output_format": "none",
-  "original_prompt": "book shelf, colorful, magic, light, glass, cathedral, glass",
+  "original_prompt": "book shelf, colorful, magic, light, glass, cathedral, glass, white marble",
   "active_tags": [],
   "inactive_tags": [],
   "enable_vae_tiling": true
