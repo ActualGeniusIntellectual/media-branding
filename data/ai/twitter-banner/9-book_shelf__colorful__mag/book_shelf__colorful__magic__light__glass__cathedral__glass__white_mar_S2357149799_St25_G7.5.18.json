@@ -1,6 +1,6 @@
 {
-  "prompt": "book shelf, colorful, magic, light, glass, cathedral, glass, white marble",
-  "seed": 757397291,
+  "prompt": "book shelf, colorful, magic, light, glass, cathedral, glass, white marble, Electric Colors",
+  "seed": 2357149799,
   "used_random_seed": true,
   "negative_prompt": "",
   "num_outputs": 1,
@@ -10,7 +10,7 @@
   "height": 512,
   "vram_usage_level": "balanced",
   "sampler_name": "euler_a",
-  "use_stable_diffusion_model": "sd_xl_turbo_1.0_fp16",
+  "use_stable_diffusion_model": "protogenV22Anime_22",
   "clip_skip": false,
   "use_vae_model": "",
   "stream_progress_updates": true,
@@ -22,7 +22,9 @@
   "output_lossless": false,
   "metadata_output_format": "none",
   "original_prompt": "book shelf, colorful, magic, light, glass, cathedral, glass, white marble",
-  "active_tags": [],
+  "active_tags": [
+    "Electric Colors"
+  ],
   "inactive_tags": [],
   "enable_vae_tiling": true
 }
