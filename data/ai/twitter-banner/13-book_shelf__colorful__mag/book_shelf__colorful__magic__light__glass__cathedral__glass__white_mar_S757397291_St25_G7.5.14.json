@@ -1,6 +1,6 @@
 {
   "prompt": "book shelf, colorful, magic, light, glass, cathedral, glass, white marble",
-  "seed": 587102064,
+  "seed": 757397291,
   "used_random_seed": true,
   "negative_prompt": "",
   "num_outputs": 1,
@@ -10,7 +10,7 @@
   "height": 512,
   "vram_usage_level": "balanced",
   "sampler_name": "euler_a",
-  "use_stable_diffusion_model": "DreamShaper_3.3",
+  "use_stable_diffusion_model": "sd_xl_turbo_1.0_fp16",
   "clip_skip": false,
   "use_vae_model": "",
   "stream_progress_updates": true,
